@@ -20,7 +20,7 @@ const Documentation: React.FC<DocumentationProps> = ({ isOpen, onClose }) => {
           <div className="doc-section">
             <h1>FIREClaw</h1>
             <p className="doc-description">
-              一个现代化的AI副业助手平台，帮助用户发现技能、规划副业、识别风险，并提供微信社群支持。
+              一个现代化的AIFIRE规划工具平台，帮助用户发现技能、规划副业、识别风险，并提供微信社群支持。
             </p>
           </div>
 
@@ -29,15 +29,15 @@ const Documentation: React.FC<DocumentationProps> = ({ isOpen, onClose }) => {
             <div className="feature-grid">
               <div className="feature-item">
                 <h4>智能技能发现</h4>
-                <p>通过AI算法分析用户技能和兴趣，推荐最适合的副业方向</p>
+                <p>通过AI算法分析用户技能和兴趣，推荐最适合的FIRE路径</p>
               </div>
               <div className="feature-item">
                 <h4>个性化规划</h4>
-                <p>根据用户情况制定详细的副业发展计划和时间表</p>
+                <p>根据用户情况制定详细的FIRE实践计划和时间表</p>
               </div>
               <div className="feature-item">
                 <h4>风险评估</h4>
-                <p>智能评估副业项目的风险等级，提供风险缓解建议</p>
+                <p>智能评估财务自由项目的风险等级，提供风险缓解建议</p>
               </div>
               <div className="feature-item">
                 <h4>社群支持</h4>

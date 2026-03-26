@@ -32,7 +32,7 @@ const CopyWeChatButton: React.FC<CopyWeChatButtonProps> = ({
           <div className="notification">
             <div className="notification-content">
               <div className="notification-icon">✓</div>
-              <div className="notification-message">微信号已复制：{id}，添加好友备注"副业互助"即可入群</div>
+              <div className="notification-message">微信号已复制：{id}，添加好友备注"FIRE"即可入群</div>
             </div>
           </div>
         </div>
