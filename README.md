@@ -6,7 +6,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6?logo=typescript)](https://www.typescriptlang.org/)
 [![Vite](https://img.shields.io/badge/Vite-5.0-646CFF?logo=vite)](https://vitejs.dev/)
 [![License](https://img.shields.io/badge/License-Apache%202.0-green.svg)](LICENSE)
-[![在线体验](https://img.shields.io/badge/在线体验-立即试用-brightgreen)](https://fireclaw.netlify.app)
+**[本地运行](#本地部署)**
 
 **[English](#english) | 简体中文**
 
@@ -226,17 +226,15 @@ graph TB
 
 ## 🚀 快速开始
 
-### 方式 1：在线体验（推荐）
+### 使用流程
 
-访问地址：**https://fireclaw.netlify.app**
-
-无需注册，直接体验：
+按下方步骤在本地启动后，打开终端显示的地址：
 1. 输入你的收入、支出、存款
 2. 选择风险偏好
 3. 获得个性化 FIRE 规划
 4. 下载 PDF 报告
 
-### 方式 2：本地部署
+### 本地部署
 
 ```bash
 # 1. 克隆仓库
@@ -254,9 +252,8 @@ cp .env.example .env
 npm run dev
 # 访问 http://localhost:5173
 
-# 5. 构建部署
+# 5. 构建静态文件
 npm run build
-npm run deploy
 ```
 
 ### 配置 DeepSeek API
@@ -541,17 +538,15 @@ After 3 months with FIREClaw:
 
 ## Quick Start
 
-### Option 1: Try Online (Recommended)
+### Using FIREClaw
 
-Visit: **https://fireclaw.netlify.app**
-
-No registration required. Just:
+Start the app locally using the instructions below, then open the URL shown in your terminal:
 1. Enter your income, expenses, savings
 2. Choose your risk preference
 3. Get personalized FIRE plan
 4. Download PDF report
 
-### Option 2: Local Deployment
+### Local Deployment
 
 ```bash
 git clone https://github.com/AIPMAndy/FIREClaw.git
