@@ -1,0 +1,56 @@
+# FIREClaw
+
+> FIREClaw - AI驱动的财务自由规划工具，帮助用户实现FIRE（Financial Independence Retire Early）
+
+- 作者：AI酋长Andy（AIPMAndy），官网 https://metaver.vip/
+- 开源仓库：https://github.com/AIPMAndy/FIREClaw
+- 许可：MIT
+- 语言：中文（zh-CN）
+- 最近更新：2026-11-24
+
+## 这是什么
+
+FIREClaw 是一个 AI 驱动的财务自由规划工具，帮助用户制定个性化的 FIRE 实现路径。
+不是理财课程，不是投资建议，而是一个 7×24小时在线的财务自由规划师。
+
+## 主要页面
+
+- [FIREClaw - AI驱动的财务自由规划工具](https://github.com/AIPMAndy/FIREClaw/blob/main/index.html)
+
+## 内容目录
+
+- 什么是 FIREClaw？
+- 快速测算：你离 FIRE 还有多远？
+- 核心功能
+- 技术架构
+- 快速开始
+- FIRE 基础知识
+- 关于作者
+- 成功案例
+- 贡献指南
+- 许可证
+- 相关资源
+- 如果 FIREClaw 对你有帮助
+- What is FIREClaw?
+- Real Success Story
+- Core Features
+- Quick Start
+- Tech Stack
+- 作者 / About the author
+- License
+
+## 关键事实
+
+- 名称：FIREClaw
+- 类型：中文开源项目
+- 许可：MIT
+- 语言：中文
+- 最近更新：2026-11-24
+- 仓库：https://github.com/AIPMAndy/FIREClaw
+
+## 相关链接
+
+- [作者官网](https://metaver.vip/)
+- [GitHub 主页](https://github.com/AIPMAndy/AIPMAndy)
+- [开源总目录](https://aipmandy.github.io/)
+- [机器可读摘要](https://github.com/AIPMAndy/FIREClaw/blob/main/llms.txt)
